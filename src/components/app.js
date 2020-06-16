@@ -1,23 +1,24 @@
 import React from "react";
+import todosData from "../todoData";
+import TodoList from './todoList';
 
-const styles = {
-    fontSize: 20,
-    fontFamily: "Verdana",
-    color: 'blue',
-    display: 'flex',
-    alignItems: 'center',
-}
+class App extends React.Component{
+    constructor() {
+        super();
+        this.state = {
+            todos: todosData,
+        }
+    }
+    render() {
+        const ToDo = this.state.todos.map(todo => <TodoList key = {todo.id} todo = {todo}/>)
 
-const ToDoItem  = () => <div style={styles}><input id = 'todo' type="checkbox"/><p>Item </p></div>
-
-function App(){
-    return (
-        <div>
-            <ToDoItem />
-            <ToDoItem />
-            <ToDoItem />
-        </div>
-    )
+        return (
+            <div className="todo-list">
+                <h1>Todo List</h1>
+                {ToDo}
+            </div>
+        )
+    }
 }
 
 export default App

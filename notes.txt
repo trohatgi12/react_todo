@@ -1,0 +1,3 @@
+Props - They are parts of reusable components that allows you to use multiple versions of the same components. Develop a component
+once and then use it multiple times.
+

@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00020ae1-0417-48cf-ab6c-742ec676d5cf" name="Default Changelist" comment="feat: basic setup">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tanayrohatgi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainContent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    <list default="true" id="00020ae1-0417-48cf-ab6c-742ec676d5cf" name="Default Changelist" comment="feat: second iteration">
+      <change afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todoData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1d752LR4QxywelnK4WJX6GssGCw" />
   <component name="ProjectLevelVcsManager">
@@ -92,8 +85,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591763082936</updated>
-      <workItem from="1591763086258" duration="2805000" />
+      <workItem from="1591763086258" duration="2857000" />
+      <workItem from="1591766655789" duration="118000" />
+      <workItem from="1591766854796" duration="31000" />
+      <workItem from="1591892258647" duration="1927000" />
+      <workItem from="1591902518207" duration="123000" />
+      <workItem from="1591973354024" duration="1327000" />
+      <workItem from="1591977898364" duration="280000" />
+      <workItem from="1591978211763" duration="29000" />
+      <workItem from="1592150582026" duration="1564000" />
+      <workItem from="1592324648108" duration="402000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: basic setup">
+      <created>1591766481435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591766481435</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: updated gitignore">
+      <created>1591766712996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591766712996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: second iteration">
+      <created>1591895034154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591895034154</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,37 +125,51 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: basic setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: basic setup" />
+    <MESSAGE value="feat: updated gitignore" />
+    <MESSAGE value="feat: second iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: second iteration" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591765874692">
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591892374379">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.809@0.23.1440.809" timestamp="1591765874692" />
-    <state x="303" y="30" key="CommitChangelistDialog2" timestamp="1591766442389">
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.809@0.23.1440.809" timestamp="1591892374379" />
+    <state x="303" y="30" key="CommitChangelistDialog2" timestamp="1592152594313">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="303" y="30" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1591766442389" />
+    <state x="303" y="30" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1592152594313" />
     <state x="585" y="328" key="Github.ShareDialog" timestamp="1591766403766">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="585" y="328" key="Github.ShareDialog/0.23.1440.809@0.23.1440.809" timestamp="1591766403766" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1591765865141">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1592152615109">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1591765865141" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1591765865140">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1592152615109" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1592152615109">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1591765865140" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1591765865140">
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1592152615109" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1592152615108">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1591765865139" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1591765865140">
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1592152615108" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1592152615109">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1591765865140" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1592152615109" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1592152597733">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1592152597733" />
+    <state x="503" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592324654419">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="503" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.809@0.23.1440.809" timestamp="1592324654419" />
+    <state x="408" y="226" key="git4idea.merge.GitPullDialog" timestamp="1592324979231">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="408" y="226" key="git4idea.merge.GitPullDialog/0.23.1440.809@0.23.1440.809" timestamp="1592324979231" />
     <state x="385" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1591766073687">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
