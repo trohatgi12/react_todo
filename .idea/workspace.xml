@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00020ae1-0417-48cf-ab6c-742ec676d5cf" name="Default Changelist" comment="feat: second iteration">
-      <change afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/todoData.js" afterDir="false" />
+    <list default="true" id="00020ae1-0417-48cf-ab6c-742ec676d5cf" name="Default Changelist" comment="feat: sixth iteration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +44,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -94,7 +93,9 @@
       <workItem from="1591977898364" duration="280000" />
       <workItem from="1591978211763" duration="29000" />
       <workItem from="1592150582026" duration="1564000" />
-      <workItem from="1592324648108" duration="402000" />
+      <workItem from="1592324648108" duration="721000" />
+      <workItem from="1592374284124" duration="2309000" />
+      <workItem from="1593319945380" duration="513000" />
     </task>
     <task id="LOCAL-00001" summary="feat: basic setup">
       <created>1591766481435</created>
@@ -117,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591895034154</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: fourth iteration">
+      <created>1592325111775</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592325111775</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,49 +135,55 @@
     <MESSAGE value="feat: basic setup" />
     <MESSAGE value="feat: updated gitignore" />
     <MESSAGE value="feat: second iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: second iteration" />
+    <MESSAGE value="feat: fourth iteration" />
+    <MESSAGE value="feat: sixth iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: sixth iteration" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="93" key="#ESLint" timestamp="1592374322491">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="320" y="93" key="#ESLint/0.23.1440.809@0.23.1440.809" timestamp="1592374322491" />
     <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591892374379">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.809@0.23.1440.809" timestamp="1591892374379" />
-    <state x="303" y="30" key="CommitChangelistDialog2" timestamp="1592152594313">
+    <state x="303" y="30" key="CommitChangelistDialog2" timestamp="1592383572338">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="303" y="30" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1592152594313" />
+    <state x="303" y="30" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1592383572338" />
     <state x="585" y="328" key="Github.ShareDialog" timestamp="1591766403766">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="585" y="328" key="Github.ShareDialog/0.23.1440.809@0.23.1440.809" timestamp="1591766403766" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1592152615109">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1592383600374">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1592152615109" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1592152615109">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1592383600374" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1592383600365">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1592152615109" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1592152615108">
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1592383600365" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1592383600363">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1592152615108" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1592152615109">
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1592383600363" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1592383600366">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1592152615109" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1592152597733">
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1592383600366" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1592383575604">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1592152597733" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1592383575604" />
     <state x="503" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592324654419">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="503" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.809@0.23.1440.809" timestamp="1592324654419" />
-    <state x="408" y="226" key="git4idea.merge.GitPullDialog" timestamp="1592324979231">
+    <state x="408" y="226" key="git4idea.merge.GitPullDialog" timestamp="1592383306465">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="408" y="226" key="git4idea.merge.GitPullDialog/0.23.1440.809@0.23.1440.809" timestamp="1592324979231" />
+    <state x="408" y="226" key="git4idea.merge.GitPullDialog/0.23.1440.809@0.23.1440.809" timestamp="1592383306465" />
     <state x="385" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1591766073687">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
